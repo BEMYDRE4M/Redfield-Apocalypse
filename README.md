@@ -1,7 +1,7 @@
 # Redfield Apocalypse
 
 A simple zombie apocalypse gamemode developed in 2018/2019.   
-Development has been discontinued; this upload serves mainly for archiving.
+Development and support have been discontinued; this upload serves mainly for archiving.
 
 Features
 
