@@ -3,6 +3,8 @@
 A simple zombie apocalypse gamemode developed in 2018/2019.   
 Development and support have been discontinued; this upload serves mainly for archiving.
 
+https://multitheftauto.com
+
 Features
 
 - 🔑 MySQL Register/Login System  
