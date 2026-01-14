@@ -19,7 +19,7 @@ RegisterLogin.load()
 addEvent("RegisterLogin.createWindow",true)
 addEventHandler("RegisterLogin.createWindow",root,function(type)
 	--// GUI-Elements
-    ApocalypseUI.window[1] = guiCreateWindow(544, 298, 327, 150, "Dre4mY's Apocalypse", false,"nocross")
+    ApocalypseUI.window[1] = guiCreateWindow(544, 298, 327, 150, "Redfield Apocalypse", false,"nocross")
 
     ApocalypseUI.label[1] = guiCreateLabel(10, 28, 307, 33, "Your name: "..getPlayerName(localPlayer), false, ApocalypseUI.window[1])
     guiSetFont(ApocalypseUI.label[1], "default-bold-small")

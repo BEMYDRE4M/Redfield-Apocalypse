@@ -84,7 +84,7 @@ Fahrzeuge = {
 }
 
 for _,v in pairs(Fahrzeuge)do
-	local vehicle = createVehicle(v[1],v[2],v[3],v[4],v[5],v[6],v[7],"Dre4mY's Apocalypse")
+	local vehicle = createVehicle(v[1],v[2],v[3],v[4],v[5],v[6],v[7],"Redfield Apocalypse")
 	setElementData(vehicle,"VehicleLevel",v[8])
 	setElementFrozen(vehicle,true)
 	setVehicleColor(vehicle,255,255,255)
