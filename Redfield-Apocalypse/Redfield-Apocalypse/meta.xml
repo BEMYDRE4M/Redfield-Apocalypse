@@ -1,0 +1,175 @@
+<meta>
+	<file src = "Files/Images/Achievement_locked.png"/>
+	<file src = "Files/Images/Achievement_reached.png"/>
+	<file src = "Files/Images/Window1.png"/>
+	<file src = "Files/Images/Window2.png"/>
+	<file src = "Files/Images/Cross.png"/>
+	<file src = "Files/Images/WhitePxl.png"/>
+
+	<file src = "Files/Images/HUD/Health.png"/>
+	<file src = "Files/Images/HUD/Armor.png"/>
+	<file src = "Files/Images/HUD/Money.png"/>
+	<file src = "Files/Images/HUD/Oxygen.png"/>
+	<file src = "Files/Images/HUD/XP.png"/>
+	
+	<file src = "Files/Images/HUD/Weapons/0.png"/>
+	<file src = "Files/Images/HUD/Weapons/1.png"/>
+	<file src = "Files/Images/HUD/Weapons/2.png"/>
+	<file src = "Files/Images/HUD/Weapons/3.png"/>
+	<file src = "Files/Images/HUD/Weapons/4.png"/>
+	<file src = "Files/Images/HUD/Weapons/5.png"/>
+	<file src = "Files/Images/HUD/Weapons/6.png"/>
+	<file src = "Files/Images/HUD/Weapons/7.png"/>
+	<file src = "Files/Images/HUD/Weapons/8.png"/>
+	<file src = "Files/Images/HUD/Weapons/9.png"/>
+	<file src = "Files/Images/HUD/Weapons/10.png"/>
+	<file src = "Files/Images/HUD/Weapons/11.png"/>
+	<file src = "Files/Images/HUD/Weapons/12.png"/>
+	<file src = "Files/Images/HUD/Weapons/14.png"/>
+	<file src = "Files/Images/HUD/Weapons/15.png"/>
+	<file src = "Files/Images/HUD/Weapons/16.png"/>
+	<file src = "Files/Images/HUD/Weapons/17.png"/>
+	<file src = "Files/Images/HUD/Weapons/18.png"/>
+	<file src = "Files/Images/HUD/Weapons/22.png"/>
+	<file src = "Files/Images/HUD/Weapons/23.png"/>
+	<file src = "Files/Images/HUD/Weapons/24.png"/>
+	<file src = "Files/Images/HUD/Weapons/25.png"/>
+	<file src = "Files/Images/HUD/Weapons/26.png"/>
+	<file src = "Files/Images/HUD/Weapons/27.png"/>
+	<file src = "Files/Images/HUD/Weapons/28.png"/>
+	<file src = "Files/Images/HUD/Weapons/29.png"/>
+	<file src = "Files/Images/HUD/Weapons/30.png"/>
+	<file src = "Files/Images/HUD/Weapons/31.png"/>
+	<file src = "Files/Images/HUD/Weapons/32.png"/>
+	<file src = "Files/Images/HUD/Weapons/33.png"/>
+	<file src = "Files/Images/HUD/Weapons/34.png"/>
+	<file src = "Files/Images/HUD/Weapons/35.png"/>
+	<file src = "Files/Images/HUD/Weapons/36.png"/>
+	<file src = "Files/Images/HUD/Weapons/37.png"/>
+	<file src = "Files/Images/HUD/Weapons/38.png"/>
+	<file src = "Files/Images/HUD/Weapons/39.png"/>
+	<file src = "Files/Images/HUD/Weapons/40.png"/>
+	<file src = "Files/Images/HUD/Weapons/41.png"/>
+	<file src = "Files/Images/HUD/Weapons/42.png"/>
+	<file src = "Files/Images/HUD/Weapons/43.png"/>
+	<file src = "Files/Images/HUD/Weapons/44.png"/>
+	<file src = "Files/Images/HUD/Weapons/45.png"/>
+	<file src = "Files/Images/HUD/Weapons/46.png"/>
+	
+	<file src = "Files/Images/Inventory/Bonuspoints.png"/>
+	<file src = "Files/Images/Inventory/Hearts.png"/>
+	<file src = "Files/Images/Inventory/Coins.png"/>
+	<file src = "Files/Images/Inventory/Trophys.png"/>
+	<file src = "Files/Images/Inventory/Zombieskin.png"/>
+	<file src = "Files/Images/Inventory/Keys.png"/>
+	
+	<file src = "Files/Zombies/13.txd" />
+	<file src = "Files/Zombies/22.txd" />
+	<file src = "Files/Zombies/56.txd" />
+	<file src = "Files/Zombies/67.txd" />
+	<file src = "Files/Zombies/68.txd" />
+	<file src = "Files/Zombies/69.txd" />
+	<file src = "Files/Zombies/70.txd" />
+	<file src = "Files/Zombies/92.txd" />
+	<file src = "Files/Zombies/97.txd" />
+	<file src = "Files/Zombies/105.txd"/>
+	<file src = "Files/Zombies/107.txd"/>
+	<file src = "Files/Zombies/108.txd"/>
+	<file src = "Files/Zombies/126.txd"/>
+	<file src = "Files/Zombies/127.txd"/>
+	<file src = "Files/Zombies/128.txd"/>
+	<file src = "Files/Zombies/152.txd"/>
+	<file src = "Files/Zombies/162.txd"/>
+	<file src = "Files/Zombies/167.txd"/>
+	<file src = "Files/Zombies/188.txd"/>
+	<file src = "Files/Zombies/195.txd"/>
+	<file src = "Files/Zombies/206.txd"/>
+	<file src = "Files/Zombies/209.txd"/>
+	<file src = "Files/Zombies/212.txd"/>
+	<file src = "Files/Zombies/229.txd"/>
+	<file src = "Files/Zombies/230.txd"/>
+	<file src = "Files/Zombies/258.txd"/>
+	<file src = "Files/Zombies/264.txd"/>
+	<file src = "Files/Zombies/277.txd"/>
+	<file src = "Files/Zombies/280.txd"/>
+	<file src = "Files/Zombies/287.txd"/>
+	
+	<file src = "Files/Shader/Blur.fx"/>
+	
+	<file src = "Files/RegisterLogin.mp3"/>
+	
+	<file src = "Files/Fonts/Font.ttf"/>
+
+	<script src = "Maps/sMaps.lua"/>
+	<script src = "Maps/cMaps.lua" type = "client"/>
+	
+	<map src = "Maps/Apocalypse.map"/>
+	<map src = "Maps/Savezones.map"/>
+	
+	<script src = "sMain.lua"/>
+	<script src = "cMain.lua" type = "client"/>
+	<script src = "smoothMoveCamera.lua" type = "client"/>
+	
+	<script src = "Client/cZombies.lua" type = "client"/>
+	<script src = "Server/sZombies.lua"/>
+
+	<script src = "Client/cGUI.lua" type = "client"/>
+
+	<script src = "Server/RegisterLogin/sRegisterLogin.lua"/>
+	
+	<script src = "Client/RegisterLogin/cRegisterLogin.lua" type = "client"/>
+	
+	<script src = "Server/Adminsystem/sAdminsystemAllround.lua"/>
+	<script src = "Server/Adminsystem/sAdminsystem.lua"/>
+	<script src = "Server/Adminsystem/sPremium.lua"/>
+	<script src = "Server/Adminsystem/sNews.lua"/>
+	
+	<script src = "Client/Adminsystem/cAdminsystemAllround.lua" type = "client"/>
+	<script src = "Client/Adminsystem/cAdminsystem.lua" type = "client"/>
+	<script src = "Client/Adminsystem/cNews.lua" type = "client"/>
+	
+	<script src = "Server/Systems/sWeather.lua"/>
+	<script src = "Server/Systems/sOfflinemessages.lua"/>
+	<script src = "Server/Systems/sWeapondepot.lua"/>
+	<script src = "Server/Systems/sLevelsystem.lua"/>
+	<script src = "Server/Systems/sToplist.lua"/>
+	<script src = "Server/Systems/sVehicles.lua"/>
+	<script src = "Server/Systems/sAchievements.lua"/>
+	<script src = "Server/Systems/sSavezones.lua"/>
+	<script src = "Server/Systems/sWeaponskills.lua"/>
+	<script src = "Server/Systems/sInventory.lua"/>
+	<script src = "Server/Systems/sHouses.lua"/>
+	<script src = "Server/Systems/sSafes.lua"/>
+	
+	<script src = "Client/Systems/cWeather.lua" type = "client"/>
+	<script src = "Client/Systems/cWeapondepot.lua" type = "client"/>
+	<script src = "Client/Systems/cPeds.lua" type = "client"/>
+	<script src = "Client/Systems/cUpdates.lua" type = "client"/>
+	<script src = "Client/Systems/cToplist.lua" type = "client"/>
+	<script src = "Client/Systems/cAchievements.lua" type = "client"/>
+	<script src = "Client/Systems/cSavezones.lua" type = "client"/>
+	<script src = "Client/Systems/cHouses.lua" type = "client"/>
+	<script src = "Client/Systems/cSafes.lua" type = "client"/>
+	
+	<script src = "Server/Shops/sCoinshop.lua"/>
+	<script src = "Server/Shops/sSkinshop.lua"/>
+	<script src = "Server/Shops/sWeaponshop.lua"/>
+	<script src = "Server/Shops/sCarhouse.lua"/>
+	
+	<script src = "Client/Shops/cCoinshop.lua" type = "client"/>
+	<script src = "Client/Shops/cSkinshop.lua" type = "client"/>
+	<script src = "Client/Shops/cWeaponshop.lua" type = "client"/>
+	<script src = "Client/Shops/cCarhouse.lua" type = "client"/>
+		
+	<script src = "Server/Teamsystem/sTeamsystem.lua"/>
+	
+	<script src = "Client/Teamsystem/cTeamsystem.lua" type = "client"/>
+	
+	<script src = "Client/Client/cHUD.lua" type = "client"/>
+	<script src = "Client/Client/cInfobox.lua" type = "client"/>
+	<script src = "Client/Client/cWeaponskills.lua" type = "client"/>
+	<script src = "Client/Client/cHelpmenue.lua" type = "client"/>
+	<script src = "Client/Client/cScoreboard.lua" type = "client"/>
+	<script src = "Client/Client/cInventory.lua" type = "client"/>
+	<script src = "Client/Client/cPayday.lua" type = "client"/>
+</meta>
