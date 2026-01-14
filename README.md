@@ -1,3 +1,8 @@
+![Stars](https://img.shields.io/github/stars/BEMYDRE4M/Redfield-Apocalypse)
+![Forks](https://img.shields.io/github/forks/BEMYDRE4M/Redfield-Apocalypse)
+![Downloads](https://img.shields.io/github/downloads/BEMYDRE4M/Redfield-Apocalypse)
+![License](https://img.shields.io/github/license/BEMYDRE4M/Redfield-Apocalypse)
+
 <p align="center">
   <img src="Screenshots/1.png" width="350">
   <img src="Screenshots/2.png" width="350">
