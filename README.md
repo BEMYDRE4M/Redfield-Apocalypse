@@ -1,16 +1,9 @@
 <p align="center">
-  <a href="https://github.com/BEMYDRE4M/Redfield-Apocalypse/stargazers">
-    <img src="https://img.shields.io/github/stars/BEMYDRE4M/Redfield-Apocalypse">
-  </a>
-  <a href="https://github.com/BEMYDRE4M/Redfield-Apocalypse/network/members">
-    <img src="https://img.shields.io/github/forks/BEMYDRE4M/Redfield-Apocalypse">
-  </a>
-  <a href="https://github.com/BEMYDRE4M/Redfield-Apocalypse/releases">
-    <img src="https://img.shields.io/github/downloads/BEMYDRE4M/Redfield-Apocalypse/total">
-  </a>
-  <a href="https://github.com/BEMYDRE4M/Redfield-Apocalypse/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/BEMYDRE4M/Redfield-Apocalypse">
-  </a>
+  <img src="https://img.shields.io/github/stars/BEMYDRE4M/Redfield-Apocalypse.svg" alt="GitHub stars">
+  <img src="https://img.shields.io/github/forks/BEMYDRE4M/Redfield-Apocalypse.svg" alt="GitHub forks">
+  <img src="https://img.shields.io/github/release-date/BEMYDRE4M/Redfield-Apocalypse.svg" alt="Release date">
+  <img src="https://img.shields.io/github/v/release/BEMYDRE4M/Redfield-Apocalypse?style=flat-square" alt="Latest Release">
+  <img src="https://img.shields.io/github/downloads/BEMYDRE4M/Redfield-Apocalypse/total.svg" alt="Total Downloads">
 </p>
 
 <p align="center">
