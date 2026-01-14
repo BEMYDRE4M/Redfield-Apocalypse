@@ -12,7 +12,8 @@ In this game, you face hordes of zombies, survive, and grow stronger. Here’s w
 - **Safe zones:** Recharge and plan your strategy in areas protected from zombies.  
 - **Premium benefits:** Activate Premium status to enjoy extra perks and advantages in the game.  
 
-Prepare yourself for survival, strategy, and teamwork in the ultimate zombie apocalypse experience.
+
+Installation: Upload the database and enter the data in the sMain.lua file.
 
 
 
