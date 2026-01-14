@@ -15,7 +15,15 @@ In this game, you face hordes of zombies, survive, and grow stronger. Here’s w
 
 Installation: Upload the database and enter the data in the sMain.lua file.
 
-
+|Category|Amount|
+|---|---|
+LUA files|55|
+other files|96|
+functions|254|
+lines|3853|
+characters|167873|
+comment-lines|60|
+comment-characters|1181|
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/BEMYDRE4M/Redfield-Apocalypse.svg" alt="GitHub stars">
